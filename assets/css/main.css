@@ -1,0 +1,40 @@
+
+
+.thumb {
+	width: 200px;
+	transition: 300ms all ease;
+}
+
+.grande {
+	width: 400px;
+}
+
+/*.titulo{
+	border: 1px solid navy;
+	background: #ccc;
+	padding: 10px;
+}
+
+.tituloGrande{
+	font-size: 60px;
+}
+*/
+
+
+
+
+/*.azul{
+	width: 200px;
+	height: 200px;
+	background-color: blue;
+	display: inline-block;
+	margin-right: 10px;
+}
+
+.rojo{
+	width: 200px;
+	height: 200px;
+	background-color: red;
+	display: inline-block;
+}
+*/
